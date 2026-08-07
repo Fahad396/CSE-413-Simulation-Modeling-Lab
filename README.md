@@ -45,12 +45,14 @@ Below is the structured course outline along with real-world scenarios and Pytho
 | **12. Complex Engineering Problem** | Designing an industrial robotic arm (motor behavior, efficiency, reach). | Multi-variable dynamic simulations |
 
 ---
+## 🎯 Assingment:
+  ##assingment submitted as ipynb file,
+  
+| **Lab Assignment -1 : NumPy Scalar, Matrix, and Vector Operations
+  assingment 1 submitted as SIM_Lab1_Md_Fahad_Rahman_0432320005101071(B1).ipynb
 
-## 🚀 Lab Project Guidelines
+| **Lab Assignment -2 : Unique Matrix Value Investigation
+  assingment 1 submitted as SIM_Lab2_Md_Fahad_Rahman_0432320005101071(B1).ipynb
 
-As part of the laboratory evaluation, students must complete a team project simulating a complex real-world system.
+                    
 
-### Key Milestones:
-1. **Group Formation:** Teams of **3–4 members**.
-2. **Idea Proposal:** Submit project proposals in the required format by **Week 4**.
-3. **Final Submission:** Complete model, simulation code, and project report due **before Finals**.
